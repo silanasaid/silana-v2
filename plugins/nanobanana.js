@@ -252,5 +252,5 @@ Processing may take up to a minute depending on server load.`,
 
 handler.help = handler.command = ['nanobanana']
 handler.tags = ['ai']
-handler.limit = true
+handler.limit = false 
 export default handler
